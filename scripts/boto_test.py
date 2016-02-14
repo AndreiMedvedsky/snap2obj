@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import os
 #import boto
-import pymongo
+#import pymongo
 import re
 import hashlib
 
